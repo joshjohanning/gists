@@ -5,6 +5,8 @@
 # Description: You may have to run this multiple times - but it's better than:
 # a) unwatching all repos or
 # b) clicking thru yourself to unwatch
+#
+# See watched repos here: https://github.com/watching
 
 # Example usage: 
 # ./fix-github-notifications.ps1 -pat "<github-pat-given-notifications-and-repo-access>" -org "github"
